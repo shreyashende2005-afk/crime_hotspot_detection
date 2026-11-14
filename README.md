@@ -75,10 +75,18 @@ The interactive dashboard provides:
 
 ### 🚀 Application Preview
 
-<!-- Add your dashboard screenshot in the screenshots folder and name it dashboard.png -->
+## 🚀 Application Preview
+
+### 🏠 Dashboard Overview
 
 <p align="center">
-  <img src="screenshots/dashboard.png" alt="Crime Hotspot Detection Streamlit Dashboard" width="900"/>
+  <img src="screenshots/dashboard1.png" alt="Crime Dashboard Overview" width="900"/>
+</p>
+
+### 📊 Crime Analysis and Hotspot Visualization
+
+<p align="center">
+  <img src="screenshots/dashboard2.png" alt="Crime Analysis Dashboard" width="900"/>
 </p>
 
 ## 📂 Project Structure
