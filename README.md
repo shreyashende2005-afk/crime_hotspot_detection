@@ -59,13 +59,13 @@ The project uses Exploratory Data Analysis, geographic clustering, and machine l
 ### Dashboard Overview
 
 <p align="center">
-  <img src="screenshots/dashboard1.png" alt="Dashboard Overview" width="900"/>
+  <img src=![Dashboard 1](screenshots/dashboard1.PNG) alt="Dashboard Overview" width="900"/>
 </p>
 
 ### Crime Analysis and Hotspot Visualization
 
 <p align="center">
-  <img src="screenshots/dashboard2.png" alt="Crime Analysis Dashboard" width="900"/>
+  <img src=![Dashboard 2](screenshots/dashboard2.PNG) alt="Crime Analysis Dashboard" width="900"/>
 </p>
 
 ## ✨ Dashboard Features
