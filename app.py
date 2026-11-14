@@ -235,7 +235,11 @@ with st.expander("📂 Dataset settings", expanded=not os.path.exists(DEFAULT_DA
         "Keep the supplied CSV beside this app, or upload it below. "
         "The app processes the data locally in your Python environment."
     )
-    uploaded_file = st.file_uploader("Upload LAPD crime CSV", type=["csv"])
+    uploaded_file = st.file_uploader(
+    "Upload LAPD crime CSV",
+    type=["csv"],
+    max_upload_size=300
+    )
     st.caption(f"Default file expected: `{DEFAULT_DATA_PATH}`")
 
 try:
